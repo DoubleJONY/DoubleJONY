@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🧑🏻‍💻
+
+I'm learning about Backend skill with Java!
+
+[![DoubleJONY's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleJONY)](https://github.com/DoubleJONY/github-readme-stats)
 
 <!--
 **DoubleJONY/DoubleJONY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
